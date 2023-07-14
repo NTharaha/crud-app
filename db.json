@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "jack",
+      "lastname": "jakkabo",
+      "email": "abc@email.com",
+      "dob": "2023-07-19T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "ghfg",
+      "experience": 4,
+      "package": 4,
+      "id": 1
+    },
+    {
+      "firstname": "mohan",
+      "lastname": "jao",
+      "email": "jao@gmail.com",
+      "dob": "2023-07-16T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "dsdf",
+      "experience": 5,
+      "package": 12,
+      "id": 2
+    },
+    {
+      "firstname": "jone",
+      "lastname": "Frand",
+      "email": "jone@gmail.com",
+      "dob": "1974-06-10T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "Mac",
+      "experience": 1,
+      "package": 100000,
+      "id": 3
+    }
+  ]
+}
